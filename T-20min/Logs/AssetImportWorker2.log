@@ -1,0 +1,507 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.15f1 (b58023a2b463) revision 11894819'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 32491 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\unity\Unity 2022.3.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/unity/T-20min
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+60469
+Successfully changed project path to: D:/unity/T-20min
+D:/unity/T-20min
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [38752] Host "[IP] 10.21.199.85 [Port] 0 [Flags] 2 [Guid] 2717615551 [EditorId] 2717615551 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-DMH65DLD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [38752] Host "[IP] 10.21.199.85 [Port] 0 [Flags] 2 [Guid] 2717615551 [EditorId] 2717615551 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-DMH65DLD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 31 workers.
+Refreshing native plugins compatible for Editor in 18.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.15f1 (b58023a2b463)
+[Subsystems] Discovering subsystems at path D:/unity/Unity 2022.3.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unity/T-20min/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   31.0.15.5183
+Initialize mono
+Mono path[0] = 'D:/unity/Unity 2022.3.15f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/Unity 2022.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/unity/Unity 2022.3.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/Unity 2022.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004909 seconds.
+- Loaded All Assemblies, in  0.272 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.158 seconds
+Domain Reload Profiling: 429ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (80ms)
+		LoadAssemblies (133ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (78ms)
+			TypeCache.Refresh (77ms)
+				TypeCache.ScanAssembly (69ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (158ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (125ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (81ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.860 seconds
+Refreshing native plugins compatible for Editor in 3.56 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.387 seconds
+Domain Reload Profiling: 1247ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (12ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (672ms)
+		LoadAssemblies (507ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (252ms)
+			TypeCache.Refresh (215ms)
+				TypeCache.ScanAssembly (187ms)
+			ScanForSourceGeneratedMonoScriptInfo (32ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (387ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (296ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (235ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 5.34 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4205 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 84 unused Assets / (317.1 KB). Loaded Objects now: 4659.
+Memory consumption went from 149.6 MB to 149.3 MB.
+Total: 4.228000 ms (FindLiveObjects: 0.258500 ms CreateObjectMapping: 0.070600 ms MarkObjects: 3.658700 ms  DeleteObjects: 0.239300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1389724.222540 seconds.
+  path: Assets/整理好的/UI/符文UI/rune_cadence.png
+  artifactKey: Guid(5ab2ccecc5a642048929ec529becb581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/符文UI/rune_cadence.png using Guid(5ab2ccecc5a642048929ec529becb581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ea245819ea2e99a529ed99be4b932a') in 0.058490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 23.575753 seconds.
+  path: Assets/整理好的/怪物/Boss/T_HasturBossWindup_0.png
+  artifactKey: Guid(d962c920946472f48b652b1255782c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/怪物/Boss/T_HasturBossWindup_0.png using Guid(d962c920946472f48b652b1255782c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c4b4abd657138a39f7e6ec60270e32') in 0.033369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 15.101048 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Bulk_Up.png
+  artifactKey: Guid(047743df19cf2f244a466fc6a2d3e8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Bulk_Up.png using Guid(047743df19cf2f244a466fc6a2d3e8a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7639c8b0ccc511b70963e0f2b64ede') in 0.009980 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.012705 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Charged_Up.png
+  artifactKey: Guid(f47e40bbb159f7b4b90be7e8868a6875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Charged_Up.png using Guid(f47e40bbb159f7b4b90be7e8868a6875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e53875319ac266454082ad1d3630448') in 0.008408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002146 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Culling.png
+  artifactKey: Guid(8c3c1f8d983a1c5409c8cde18fefc833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Culling.png using Guid(8c3c1f8d983a1c5409c8cde18fefc833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7a6da88ccc75d09fbc94d1177b7b75') in 0.008452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001966 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_DeathPlague.png
+  artifactKey: Guid(622bce91d85cf2b4384374036561c0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_DeathPlague.png using Guid(622bce91d85cf2b4384374036561c0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8037e244ad31caa9c4e47e8f552ee9') in 0.007711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.004528 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_DivineBlessing.png
+  artifactKey: Guid(a0ad5bb6199778e44a44da78541830f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_DivineBlessing.png using Guid(a0ad5bb6199778e44a44da78541830f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9f4f6acf19fdc13915b86ca3f422a6') in 0.008133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.009462 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_DoubleShot.png
+  artifactKey: Guid(197c605bf9a8d3e459711196f51658a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_DoubleShot.png using Guid(197c605bf9a8d3e459711196f51658a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79152443656c9f4bd015c38092acee03') in 0.011627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001041 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Electro_Affinity.png
+  artifactKey: Guid(a645935720d83754bb0e57b2911b7f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Electro_Affinity.png using Guid(a645935720d83754bb0e57b2911b7f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bd24ead545296df03994a1d1d8bc21') in 0.009763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Electrospawns.png
+  artifactKey: Guid(bb3229c42352ff04fa855faab23b96a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Electrospawns.png using Guid(bb3229c42352ff04fa855faab23b96a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a9addecd565f17bc9340119f9a6000') in 0.008176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.007974 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_FeedTheBeasts.png
+  artifactKey: Guid(81f4fb0b17ab01544b5adb90e2afcf7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_FeedTheBeasts.png using Guid(81f4fb0b17ab01544b5adb90e2afcf7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f18fbb4f4b1581a1dc6eabb4784eb4') in 0.015911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_FrostFire.png
+  artifactKey: Guid(0aeb7b3ca405ada4aaad3effc8e78449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_FrostFire.png using Guid(0aeb7b3ca405ada4aaad3effc8e78449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22760e4b6fcdbad79453f8e943e8a9e6') in 0.010224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.008293 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_GunMastery.png
+  artifactKey: Guid(e057fd4125e8fe54d8ea9d63578daffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_GunMastery.png using Guid(e057fd4125e8fe54d8ea9d63578daffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9be6cd84062b59d5b7facb64bba2d3') in 0.007073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Hidden_Bladee.png
+  artifactKey: Guid(76b0146e64e87624a814a3d210cb00b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Hidden_Bladee.png using Guid(76b0146e64e87624a814a3d210cb00b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc650f560358c328c691e5f4c810252') in 0.016728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_IgnitingLens.png
+  artifactKey: Guid(105ca5045263c0849922ad6b34d9743b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_IgnitingLens.png using Guid(105ca5045263c0849922ad6b34d9743b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1760ead2a21d0ac0556e8a1c4609045') in 0.008588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_IntenseBurn.png
+  artifactKey: Guid(9ae45007cb0b586429309dd666aa64de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_IntenseBurn.png using Guid(9ae45007cb0b586429309dd666aa64de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8336557682c6a49f68ab1a01c5c301') in 0.008509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Magnetism.png
+  artifactKey: Guid(59d9ec857bee63c4586b1c5cb5bc0e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Magnetism.png using Guid(59d9ec857bee63c4586b1c5cb5bc0e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3cb4e6a607f6254a999ebe44490604a') in 0.009104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001377 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Maneuver.png
+  artifactKey: Guid(e13d29ff99766e745912b69c84d90f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Maneuver.png using Guid(e13d29ff99766e745912b69c84d90f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19573805dafc80e104219774ee92f956') in 0.006918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Necrophile.png
+  artifactKey: Guid(15d104b26e4adf5419defed7708342e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Necrophile.png using Guid(15d104b26e4adf5419defed7708342e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ffdd9d3b4f3017f597f175686fe2305') in 0.008987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Powershot.png
+  artifactKey: Guid(e54805d091ecc364c9e10bab8e2166fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Powershot.png using Guid(e54805d091ecc364c9e10bab8e2166fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2de1f6d741ecc497004ff97ae588f8') in 0.007447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Pyro_Affinity.png
+  artifactKey: Guid(50a44b059b6bd0e418d8a31200e5f6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Pyro_Affinity.png using Guid(50a44b059b6bd0e418d8a31200e5f6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd98a8358113a31d7ae122e305841fb6') in 0.009283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Refraction.png
+  artifactKey: Guid(2ba38ce5e7689464baab458c6a62e31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Refraction.png using Guid(2ba38ce5e7689464baab458c6a62e31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db94b5f307877dd8c074c906ffce3473') in 0.008855 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002762 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Ritual.png
+  artifactKey: Guid(51ee4045ed241c949a169ebd13407094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Ritual.png using Guid(51ee4045ed241c949a169ebd13407094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dce340cdf825868b70de80f5c4f725a') in 0.009487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.014233 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_ShadowAffinity.png
+  artifactKey: Guid(2b416b0220ee6ea42b14ede4be8a07de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_ShadowAffinity.png using Guid(2b416b0220ee6ea42b14ede4be8a07de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c4cca2819adabc63b37b3172ccb94c') in 0.009047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.012711 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_SightMagic.png
+  artifactKey: Guid(a01ecddd667bdd24d9ca79ef5071b589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_SightMagic.png using Guid(a01ecddd667bdd24d9ca79ef5071b589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6838bddab8b001a40abf882fe6493fc3') in 0.009858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.008439 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_SoulKnight.png
+  artifactKey: Guid(572168bed52e998469483279aac0b242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_SoulKnight.png using Guid(572168bed52e998469483279aac0b242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0831170d5de5f8a39ea1950be6f968') in 0.007546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.007194 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_SoulReap.png
+  artifactKey: Guid(2d1da8777078c7b478d7b86b8495c7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_SoulReap.png using Guid(2d1da8777078c7b478d7b86b8495c7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d1252d6e196f3995d5577be017098a') in 0.011260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002493 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Splinter.png
+  artifactKey: Guid(cd6c98652569a6049845448d9d5a2861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Splinter.png using Guid(cd6c98652569a6049845448d9d5a2861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb41c938a7cb3d677486c781e359780') in 0.008783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.004839 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_StalwartShield.png
+  artifactKey: Guid(a5944626aad0c5e41b8997a4e54841b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_StalwartShield.png using Guid(a5944626aad0c5e41b8997a4e54841b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0298a4518fa4d57e3bcb152a4e46f0e6') in 0.009622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002943 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_SummonMastery.png
+  artifactKey: Guid(6c970627fe377d142ae0cb50f76b845c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_SummonMastery.png using Guid(6c970627fe377d142ae0cb50f76b845c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66c03889291ab498c7614627b1ce792') in 0.008367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.006220 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_SwordMastery.png
+  artifactKey: Guid(c5dba30fdadea95418aba729843f8780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_SwordMastery.png using Guid(c5dba30fdadea95418aba729843f8780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b112eddce011dee23ebdca5102c5e4e0') in 0.008785 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.006541 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_ThousandSwords.png
+  artifactKey: Guid(35cc21c461a16414099425001d09527a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_ThousandSwords.png using Guid(35cc21c461a16414099425001d09527a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccea425ebc946c4bc40f984fe93250ca') in 0.010047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002967 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_TomeElectro.png
+  artifactKey: Guid(b28775d0c5914db4a97fc4df420dccb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_TomeElectro.png using Guid(b28775d0c5914db4a97fc4df420dccb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5778e21f0014abb6932568af44781c12') in 0.007119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.005193 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_TomeMight.png
+  artifactKey: Guid(82abbf1eed91ec8438edbfa9cc6cbfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_TomeMight.png using Guid(82abbf1eed91ec8438edbfa9cc6cbfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d8c377b846cf494631bb2bcef00879b') in 0.006099 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.011981 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_TomeOfElements.png
+  artifactKey: Guid(f21799e3dfe2a5945b6c33b1caa075b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_TomeOfElements.png using Guid(f21799e3dfe2a5945b6c33b1caa075b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e09a95ffd6d4edad9e5b195ea94d07c') in 0.006681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.006440 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_TomePower.png
+  artifactKey: Guid(cdb3def5cc05e9a42bf6193bab042c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_TomePower.png using Guid(cdb3def5cc05e9a42bf6193bab042c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393fc391ca3e6e44ff2205a3187fa5ae') in 0.006800 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.006111 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_TomeStillness.png
+  artifactKey: Guid(ba1f66c2623d2e849a1bb18831ae4af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_TomeStillness.png using Guid(ba1f66c2623d2e849a1bb18831ae4af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29269521584e85c49456447470ecbd6') in 0.007345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002834 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_TomeVitality.png
+  artifactKey: Guid(6d018fb90c5a0c44881c7eed9deb2b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_TomeVitality.png using Guid(6d018fb90c5a0c44881c7eed9deb2b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f51c0936c968036f40760ef4cb07a62') in 0.006055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.007254 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_TrainedDragon.png
+  artifactKey: Guid(d66d42af210f9eb4cac6647536ec412b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_TrainedDragon.png using Guid(d66d42af210f9eb4cac6647536ec412b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87feb94cff358ead0b863af0505dd56b') in 0.009848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001727 seconds.
+  path: Assets/整理好的/UI/技能Icon/Icon_Undead_Army.png
+  artifactKey: Guid(b21e10c02cdc62b49b689ecdcb349e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/整理好的/UI/技能Icon/Icon_Undead_Army.png using Guid(b21e10c02cdc62b49b689ecdcb349e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24773d882877ab7383e091035540dece') in 0.006776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

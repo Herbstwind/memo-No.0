@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\T-20min\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|d:\\unity\\t-20min\\assets\\bullet_enermy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet_enermy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\enermycontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enermycontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\enermycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enermycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|d:\\unity\\t-20min\\assets\\scripts\\gunfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\bulletui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\uimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\bullet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\lifesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lifesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\abby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\abby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\attckt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attckt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|D:\\unity\\T-20min\\assets\\scripts\\enermylifesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6DA0CC-8447-2EBB-68C2-64B798FBBFCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enermylifesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bullet1.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\Bullet1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Bullet1.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\Bullet1.cs",
+              "RelativeToolTip": "Assets\\scripts\\Bullet1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:35:27.396Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bullet_enermy.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\bullet_enermy.cs",
+              "RelativeDocumentMoniker": "Assets\\bullet_enermy.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\bullet_enermy.cs",
+              "RelativeToolTip": "Assets\\bullet_enermy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:45:07.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bulletUI.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\bulletUI.cs",
+              "RelativeDocumentMoniker": "Assets\\bulletUI.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\bulletUI.cs",
+              "RelativeToolTip": "Assets\\bulletUI.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:25:33.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "timer.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\timer.cs",
+              "RelativeDocumentMoniker": "Assets\\timer.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\timer.cs",
+              "RelativeToolTip": "Assets\\timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:53:05.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneLoader.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\SceneLoader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:52:50.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManger.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\UIManger.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManger.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\UIManger.cs",
+              "RelativeToolTip": "Assets\\UIManger.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:43:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnermyController.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\EnermyController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\EnermyController.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\EnermyController.cs",
+              "RelativeToolTip": "Assets\\scripts\\EnermyController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwGQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:35:59.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enermyControlller.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\enermyControlller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\enermyControlller.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\enermyControlller.cs",
+              "RelativeToolTip": "Assets\\scripts\\enermyControlller.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:18:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gunFire.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\gunFire.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\gunFire.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\gunFire.cs",
+              "RelativeToolTip": "Assets\\scripts\\gunFire.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T02:25:43.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bullet.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\bullet.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\bullet.cs",
+              "RelativeToolTip": "Assets\\scripts\\bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:40:20.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnermyLifeSystem.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\EnermyLifeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\EnermyLifeSystem.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\EnermyLifeSystem.cs",
+              "RelativeToolTip": "Assets\\scripts\\EnermyLifeSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:49:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Abby.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\Abby.cs",
+              "RelativeDocumentMoniker": "Assets\\Abby.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\Abby.cs",
+              "RelativeToolTip": "Assets\\Abby.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:11:24.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\enemy.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\enemy.cs",
+              "RelativeToolTip": "Assets\\scripts\\enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:30:05.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lifesystem.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\lifesystem.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\lifesystem.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\lifesystem.cs",
+              "RelativeToolTip": "Assets\\scripts\\lifesystem.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:52:04.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "attckt.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\attckt.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\attckt.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\attckt.cs",
+              "RelativeToolTip": "Assets\\scripts\\attckt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:48:28.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "shoot.cs",
+              "DocumentMoniker": "D:\\unity\\T-20min\\Assets\\scripts\\shoot.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\shoot.cs",
+              "ToolTip": "D:\\unity\\T-20min\\Assets\\scripts\\shoot.cs",
+              "RelativeToolTip": "Assets\\scripts\\shoot.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:36:36.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
